@@ -1,0 +1,2 @@
+rootProject.name = "CalcularGorjeta"
+include ':app'
